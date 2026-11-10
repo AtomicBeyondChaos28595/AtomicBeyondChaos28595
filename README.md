@@ -10,3 +10,5 @@ Interests: **clean architecture**
 - Currently: **a synthetic data generator**
 
 > I read RFCs for fun and take notes in the margins.
+
+
